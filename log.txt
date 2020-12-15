@@ -1,0 +1,3 @@
+[object Object]
+{"url":"someurl","method":"GET","Duration":"1.098 ms"}
+{"url":"someurl","method":"GET","Duration":"1.098 ms"}
