@@ -1,0 +1,10 @@
+Everything looks to be working very nicely, however the file takes no user input and has no POST endpoint for the user
+The function is invoked once you start the node file instead of when the user is actually sending a post request
+
+The next step would be to change your text for the content and json for the log into actual user input.
+It's lacking the middleware for calculating of the request duration
+
+In addition: 
+- Line 6: already declaring var fs = require('fs') globally so no need for line 22
+
+Aside from that, looks like all the base principles are well put and organized.
